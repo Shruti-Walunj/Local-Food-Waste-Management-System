@@ -9,9 +9,9 @@ Cleaned and prepared datasets of providers, receivers, food listings, and claims
 
 Created SQL database and implemented CRUD operations (Create, Read, Update, Delete)
 
-Designed and executed 15+ SQL queries to analyze food donations, providers, and claims
+Designed and executed SQL queries to analyze food donations, providers, and claims
 
-Built a Streamlit app with filters for city, provider, food type, and meal type
+Built a Streamlit app for city, provider, food type, and meal type
 
 Integrated provider/receiver contact details for direct coordination
 
