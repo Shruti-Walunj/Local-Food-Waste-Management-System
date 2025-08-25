@@ -32,7 +32,7 @@ Built a structured, data-driven platform that can directly support NGOs, communi
 The system makes food redistribution efficient, transparent, and impactful
 
 # 🧠 Skills & Tools:
-Python | SQL | Streamlit | Data Analysis | CRUD Operations | Data Visualization
+Python | SQL | Streamlit | Data Analysis | CRUD Operations 
 
 # 👤 Author
 Shruti Walunj
